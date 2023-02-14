@@ -29,7 +29,7 @@ function Project(){
     }
     function editPost(project){
         console.log(project)
-        setShowProjectForm(true)
+        setShowProjectForm(false)
 
         fetch(`http://localhost:5000/projects/${project.id}`,{
             method: 'PATCH',
