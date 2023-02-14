@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "name": "Teste ",
+      "budget": "11111",
+      "category": {
+        "id": "1",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "dolaran1",
+      "budget": "21321323",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 2,
+      "name": "Jogos"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
